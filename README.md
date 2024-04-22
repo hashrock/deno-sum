@@ -1,0 +1,1 @@
+This is a simple module with a single function that adds two numbers together.
